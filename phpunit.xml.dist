@@ -29,6 +29,7 @@
             <directory>./</directory>
         </include>
         <exclude>
+            <directory>./Bridge</directory>
             <directory>./Resources</directory>
             <directory>./Tests</directory>
             <directory>./vendor</directory>
